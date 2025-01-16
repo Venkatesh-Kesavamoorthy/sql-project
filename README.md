@@ -139,7 +139,7 @@ ORDER BY
     demand_count DESC
 LIMIT 5
 ```
-### Insights
+# Insights
 
 From the analysis, several key insights emerged:
 
@@ -153,6 +153,6 @@ From the analysis, several key insights emerged:
 
 **Optimal Skills for Job Market Value:** SQL leads in demand and also offers a high average wage, positioning it as one of the best skills for data analysts and data scientists to learn in order to maximize their market value.
 
-### Closing Thoughts
+# Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data scientist job market. The findings serve as a guide for prioritizing skill development and job search efforts. By focusing on high-demand and high-salary skills, aspiring data scientists can better position themselves in a competitive job market. This exploration underscores the importance of continuous learning and adapting to emerging trends in the field of data science.
