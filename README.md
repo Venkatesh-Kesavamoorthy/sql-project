@@ -1,5 +1,5 @@
 # Introduction
-📊 Dive into the data job market! Focusing on data Scientist roles in Singapore, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
+📊 Dive into the data job market! Focusing on data Scientist roles in Singapore, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data Scientists.
 
 🔍 SQL queries? Check them out here: [2_project_sql](2_Project_sql)
 
@@ -9,9 +9,9 @@ Motivated by a desire to navigate the data scientist job market more effectively
 Data hails from my SQL Course. It's packed with insights on job titles, salaries, locations, and essential skills.
 
 ### The questions I wanted to answer through my SQL queries were:
-    1. What are the top-paying data analyst jobs?
+    1. What are the top 10 high-paying data Science jobs?
     2. What skills are required for these top-paying jobs?
-    3. What skills are most in demand for data analysts?
+    3. What skills are most in demand for data scientists?
 
 # Tools I Used
 For my deep dive into the data Scientist job market, I harnessed the power of several key tools:
@@ -24,7 +24,7 @@ For my deep dive into the data Scientist job market, I harnessed the power of se
 # The Analysis 
 Each query for this project aimed to investigate specific aspects of the data scientist job market. Here’s how I approached each question:
 
-## 1. Top-Paying Data Analyst Jobs  
+## 1. Top 10 high-Paying Data Science Jobs  
 To identify the highest-paying roles, I filtered data scientist positions based on average yearly salary and location, with a particular focus on remote jobs. This query highlights the lucrative opportunities available in the field.
 
 ```sql 
@@ -119,7 +119,7 @@ ORDER BY
 
 **Spark** - Recognized for big data processing capabilities.
 
-### 3. In-Demand Skills for Data Analysts
+### 3. In-Demand Skills for Data Scientists
 
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
 
